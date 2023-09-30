@@ -35,11 +35,9 @@
    **SQL, MySQL**
    - Designed information system for a social network including requirements analysis, entity-relationship (ER) modeling, and implementation using a relational database management system (DBMS)
 
-🔻**TwitchPlays** - Team Project - (2021)
-
-**Java AWT, Java Spring, PircBotX**
-
-- Developed a Java-based 2D game with integrated Twitch chat functionality, employing Java AWT for graphics, Java Spring for application framework, and PircBotX for seamless chat integration
+- **TwitchPlays** - Team Project - (2021)
+   **Java AWT, Java Spring, PircBotX**
+  - Developed a Java-based 2D game with integrated Twitch chat functionality, employing Java AWT for graphics, Java Spring for application framework, and PircBotX for seamless chat integration
 
 ---
 
