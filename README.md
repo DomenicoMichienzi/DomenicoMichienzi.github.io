@@ -19,22 +19,21 @@
     - Utilized gRPC to establish efficient communication between microservices
 
 - ***Website*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/Website)
+  
     ***Java, Javascript, Spring Boot, jQuery, Bootstrap, JSP, PostgreSQL***
     - Designed and developed a responsive website front-end using HTML, CSS, Javascript and jQuery, enabling users to search for and manage Movies, TV Shows, and Books
     - Integrated Google Books and TMDB APIs to provide accurate information about multimedia items
     - Implemented server-side functionality using Java, Spring Boot and RESTful APIs, allowing users to perform CRUD operations on their library
 
-- **Parallel Sort Algorithms** - Individual Project - (2022)
+- ***Parallel Sort Algorithms*** - Individual Project - (2022)
+  
+    **C++, OpenMP, MPI**
+    - Implemented Bitonic Sort and Odd-Even Transposition algorithms utilizing OpenMP and MPI
 
-**C++, OpenMP, MPI**
+- ***Social Network*** - Team Project - (2021)
 
-- Implemented Bitonic Sort and Odd-Even Transposition algorithms utilizing OpenMP and MPI
-
-🔻**Social Network** - Team Project - (2021)
-
-**SQL, MySQL**
-
-- Designed information system for a social network including requirements analysis, entity-relationship (ER) modeling, and implementation using a relational database management system (DBMS)
+   **SQL, MySQL**
+   - Designed information system for a social network including requirements analysis, entity-relationship (ER) modeling, and implementation using a relational database management system (DBMS)
 
 🔻**TwitchPlays** - Team Project - (2021)
 
