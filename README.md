@@ -11,23 +11,19 @@
 ### 🛠️ Some Personal Projects
 
 - ***MovieList*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/MovieList)
-
     ***C#, ASP.NET Core, EF Core, SQLite***
-    
     - Developed and implemented web APIs in ASP.NET Core for a Movie Dataset using REST, GraphQL, and gRPC
     - Designed RESTful API endpoints to provide movie information, enabling efficient data retrieval and manipulation
     - Implemented a GraphQL API schema to allow flexible and customized queries for movie data
     - Utilized gRPC to establish efficient communication between microservices
 
-🔻***Website*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/Website)
+- ***Website*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/Website)
+    ***Java, Javascript, Spring Boot, jQuery, Bootstrap, JSP, PostgreSQL***
+    - Designed and developed a responsive website front-end using HTML, CSS, Javascript and jQuery, enabling users to search for and manage Movies, TV Shows, and Books
+    - Integrated Google Books and TMDB APIs to provide accurate information about multimedia items
+    - Implemented server-side functionality using Java, Spring Boot and RESTful APIs, allowing users to perform CRUD operations on their library
 
-***Java, Javascript, Spring Boot, jQuery, Bootstrap, JSP, PostgreSQL***
-
-- Designed and developed a responsive website front-end using HTML, CSS, Javascript and jQuery, enabling users to search for and manage Movies, TV Shows, and Books
-- Integrated Google Books and TMDB APIs to provide accurate information about multimedia items
-- Implemented server-side functionality using Java, Spring Boot and RESTful APIs, allowing users to perform CRUD operations on their library
-
-🔻**Parallel Sort Algorithms** - Individual Project - (2022)
+- **Parallel Sort Algorithms** - Individual Project - (2022)
 
 **C++, OpenMP, MPI**
 
