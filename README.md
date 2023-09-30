@@ -1,5 +1,3 @@
-# DomenicoMichienzi.github.io
-
 ### 💻 Programming languages
 - C++
 - C#
@@ -12,11 +10,9 @@
 
 ### 🛠️ Some Personal Projects
 
- 🔻***MovieList*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/MovieList)
-
-**C#, ASP.NET Core, EF Core, SQLite**
-
-- Developed and implemented web APIs in ASP.NET Core for a Movie Dataset using REST, GraphQL, and gRPC
+-***MovieList*** - Individual Project - (2023) - [Github Repo](https://github.com/DomenicoMichienzi/MovieList)
+    **C#, ASP.NET Core, EF Core, SQLite**
+        - Developed and implemented web APIs in ASP.NET Core for a Movie Dataset using REST, GraphQL, and gRPC
 - Designed RESTful API endpoints to provide movie information, enabling efficient data retrieval and manipulation
 - Implemented a GraphQL API schema to allow flexible and customized queries for movie data
 - Utilized gRPC to establish efficient communication between microservices
